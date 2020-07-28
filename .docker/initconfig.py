@@ -8,8 +8,8 @@ def main():
     """
 
     # Create Config
-    telegram_bot_token = os.environ["BOT_TOKEN"]
-    update_interval = os.environ["UPDATE_INTERVAL"]
+    telegram_bot_token = os.environ["1002212360:AAEkhO8Ju7inwVlK7xK34Bq514q2wtZXfZY"]
+    update_interval = os.environ["300"]
 
     config = {}
     config["telegram_token"] = telegram_bot_token
